@@ -93,3 +93,6 @@ app.use((error, _req, res, _next) => {
 
 const port = Number(process.env.PORT) || 5000;
 app.listen(port, () => console.log(`ProfileForge API listening on http://localhost:${port}`));
+
+// Keep your existing app.listen() code if you want it for local development, but add this:
+module.exports = app;
