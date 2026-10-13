@@ -1,0 +1,6 @@
+{
+  "profileText": "Headline: Backend Engineer | Building resilient APIs and data services\n\nAbout: Backend engineer with 6 years of experience building reliable services for SaaS products. I focus on API design, operational clarity, and thoughtful collaboration with product teams.\n\nExperience:\nSenior Backend Engineer, AtlasPay (2022-present)\n- Designed Node.js and TypeScript services handling payment workflows.\n- Migrated synchronous jobs to a queue-based architecture, reducing p95 processing time by 38%.\n- Introduced service-level dashboards and on-call runbooks for a team of 7 engineers.\n- Partnered with security to implement OAuth 2.0 and token rotation.\n\nBackend Engineer, Cartwise (2020-2022)\n- Built REST and GraphQL APIs with Node.js and PostgreSQL.\n- Improved slow database queries and added integration test coverage.\n\nSkills: TypeScript, Node.js, PostgreSQL, Redis, Kafka, REST, GraphQL, Docker, Kubernetes, AWS, OAuth 2.0, observability, Jest",
+  "targetRole": "Senior Backend Engineer",
+  "company": "Acme",
+  "jobDescription": "Build highly available backend services, design APIs, improve database performance, and partner on secure distributed systems. TypeScript, PostgreSQL, cloud infrastructure, and observability experience are useful."
+}
